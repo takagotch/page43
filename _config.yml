@@ -1,7 +1,8 @@
 # Setup
-title: Poole
+title: Takagotch
 tagline: The Jekyll Butler
 url: https://takagotch.github.io/page43
+baseurl: https://takagotch.github.io/page43
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,8 +34,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
+  name: Takashi Yoshioka
+  url: https://twitter.com/takagotch
   email: markdotto@gmail.com
 
 # Custom vars
