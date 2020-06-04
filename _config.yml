@@ -2,9 +2,8 @@
 title: Takagotch
 tagline: The Jekyll Butler
 url: https://takagotch.github.io/page43
-baseurl: https://takagotch.github.io/page43
 paginate: 1
-baseurl: ""
+baseurl: "https://takagotch.github.io/page43"
 permalink: pretty
 
 # Gems
